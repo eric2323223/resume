@@ -1,12 +1,12 @@
-# Joe Letizia
-#### Software Engineer 
+# Peng Yin
+#### Solution architect
 
 Find me:
 
-[ Email ] (mailto://joe.letizia+github@gmail.com) * [ Twitter ](http://twitter.com/joeletizia) * [ Blog ](http://joeletizia.github.io)
+[ Email ] (mailto://362753064@qq.com) * [ Cell phone ] 13709209733 
 
 ### Personal Statement
-I am a software engineer with 7 years of experience in several aspects of the software development process. I am especially interested in creating object oriented, database-backed, web applications. My favorite frameworks are Ruby on Rails, Phoenix, and Sinatra. I also enjoy fiddling with Javascript to make front end experiences more enjoyable for the end user.
+Solving techincial problem is my daily job, I love it since it alway make me think and learn more. I am good at learn new stuff and apply various idea/technologies to provide end to end solution. I love to share my thought and discuss with others.
 
 ### Technical Skills
 Platforms | Languages | Tools
@@ -14,13 +14,20 @@ Platforms | Languages | Tools
 **Linux**, Mac OS | **Ruby**, **Elixir**, SQL, C#, Javascript  | **Vim**, git, **Heroku**, AWS
 
 ### Professional Experience
-###### Software Engineer @ Facebook
-New York City, NY  
-January 2017 - Present
+###### Tech leader/Sulotion architect @Chinasoft
+Xi'an  
+2016/3 - Present
 
-###### Senior Software Engineer @ Harry's Grooming
-New York City, NY  
-November 2015 - December 2016
+- Lead one HSBC global service development and dilevery.
+- Security design of one HSBC internal microservice.
+- Prove of Concept (PoC) design and development.
+- Member of AI innovation community.
+- Hosted techincal sharing session.
+- Provide techincal guidance to other Chinasoft projects.
+
+###### Tech leader/Technical manager @IBM CDL
+Xi'an
+2012/7 - 2016/3
 
 - Responsible for web application architecture.
 - Lead engineering hiring effors.
@@ -31,9 +38,9 @@ November 2015 - December 2016
 
 ---
 
-###### Software Engineer @ Gust 
-New York City, NY  
-June 2013 - November 2015 
+###### Software engineer @Sybase (SAP) 
+Xi'an  
+2007/8 - 2012/7 
 
 - Worked in a small, tight knit team to develop a Rails replacement to a legacy Java + Rails hybrid system.
 - Followed Test Driven Development best practices by creating full integration tests using Cucumber and Capybara along with class and method level unit tests using RSpec to drive out implementations.
@@ -43,47 +50,9 @@ June 2013 - November 2015
 
 ---
 
-###### Software Engineer @ Connotate  
-New Brunswick, NJ  
-June 2012 - May 2013
-
-- Responsible for backend products and systems focused on automating the extraction of web data.
-- Designed, implemented, and tested REST and SOAP API to allow users to programmatically interact with extraction scheduler and data store.
-- Investigated NoSql databases such as MongoDB and made proof of concepts, prototypes, and demos in order to create a new logging framework allowing the database to scale out operations horizontally.
-- Encouraged and executed transition from SVN to git as well as drafted policy guidelines for code reviews, branching and merging, and releases.
-- Upgraded and maintained customer facing web application written in ASP.Net & C#. Added jQuery to manipulate DOM and facilitate AJAX.
-
----
-
-###### Creator @ Dossier Web 
-New Brunswick, NJ  
-June 2012 - May 2013
-
-- Designed, implemented, and deployed Ruby(1.9.2) on Rails(3.2.11) application to automate a manual process dealing with job applications for graduating doctoral students applying to tenure track positions
-- Implemented model specs using RSpec to ensure proper application functionality. Learned and applied Test Driven Development methodology. Currently implementing Cucumber tests for high-level integration testing.
-- Used Twitter Bootstrap, jQuery, and Javascript to allow for a rich front end experience. 
-- Currently implementing Backbone.js to maintain front end code under an MVC framework.
-- Deployed application to Heroku and backed with postgresql.
-
----
-
-###### Application Development Analyst @ Hess Corporation
-Woodbridge, NJ  
-March 2009 - May 2012
-
-
-- Developed Tank Management System, an ASP.net and C# application backed by MS SQL server to facilitate the management of tank rentals. 
-- Developed retail order reconciliation system to allow third-party trucking partners to provide delivery information on completed orders.
-- Analyzed root cause of catastrophic failure in retail web-based oil ordering system impacting 50+ direct users with a revenue stream of $1 MM+/day. 
-- Designed and implemented sub-system overhaul of retail system which restored and improved overall system performance.
-- Created data-warehouse following star-schema to facilitate reporting of sales, inventory, and activity data. 
-- Developed ETL processes to keep analytical data up to date while preventing performance issues in transactional system.
-- Interviewed intern and full-time entry level candidates to assess technical aptitude. 
-
----
 
 ### Education
-##### Stevens Institute of Technolgy
-Hoboken, New Jersey  
-Bachelor's of Science in Computer Science
+##### Master of computer science and techonlogy
+Xian University of Techonlogy  
+
 
