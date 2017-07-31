@@ -25,6 +25,8 @@ Xi'an
 - Hosted techincal sharing session.
 - Provide techincal guidance to other Chinasoft projects.
 
+---
+
 ###### Tech leader/Technical manager @IBM CDL
 Xi'an
 2012/7 - 2016/3
