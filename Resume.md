@@ -9,7 +9,6 @@
 - Strong software development background with both backend and frontend development experience Strong analytical thinking and problem solving skills.
 - Experienced with end to end solution design.
 - Very good communication skills.
-- Clear minded and good at communication.
 - Quick learner and open minded to new technology.
 - Love to share and discuss.
 
