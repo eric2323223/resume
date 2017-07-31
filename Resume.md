@@ -1,14 +1,17 @@
 # Peng Yin
 #### Solution architect
 
-[ Email ] (mailto://362753064@qq.com) * [ Cell phone ] 13709209733 
+###### Email 362753064@qq.com
+###### Mobile  13709209733 
 
 ### Personal Statement
-Solving techincial problem is my daily job, I love it since it alway make me think and learn more. I am good at learn new stuff and apply various idea/technologies to provide end to end solution. I love to share my thought and discuss with others.
 - 10+ years of IT experience with broad technical skillsets
-- Strong software development background with both backend and frontend development experience Strong analytical thinking and problem solving skills
-- Clear minded and good at communication
-- Quick learner and open minded to new technology
+- Strong software development background with both backend and frontend development experience Strong analytical thinking and problem solving skills.
+- Experienced with end to end solution design.
+- Very good communication skills.
+- Clear minded and good at communication.
+- Quick learner and open minded to new technology.
+- Love to share and discuss.
 
 ### Technical Skills
 ###### Java enterprise development
@@ -18,7 +21,7 @@ project experience with both Spring integration and mule ESB, be able to impleme
 ###### API Design
 Good understanding of both HTTP and REST, experienced with RESTful API design with consideration include security, scalability, synchronicity and error handling.
 ###### Web security
-Good understanding of SAML and OAuth, have project experince in setting up security authentication using DataPower(as idP) and SAML assertion.
+Good understanding of common security solutions, include token based authentication(SAML and OpenID Connect) and transport layer security(symmetric/asymmetric key encripytion).
 ###### Microservice
 Good understanding of microservice, have project experience of implementing microservice with PCF and mulesoft API platform.
 ###### Data analysis and data visualization
