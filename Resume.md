@@ -7,11 +7,25 @@ Find me:
 
 ### Personal Statement
 Solving techincial problem is my daily job, I love it since it alway make me think and learn more. I am good at learn new stuff and apply various idea/technologies to provide end to end solution. I love to share my thought and discuss with others.
+- 10+ years of IT experience with broad technical skillsets
+- Strong software development background with both backend and frontend development experience Strong analytical thinking and problem solving skills
+- Clear minded and good at communication
+- Open minded to new technology
+- Familiar with HSBC new Technical Platform (PCF+mulesoft+CD pipeline)
 
 ### Technical Skills
-Platforms | Languages | Tools
-:------------: |:------------:| :------------:
-**Linux**, Mac OS | **Ruby**, **Elixir**, SQL, C#, Javascript  | **Vim**, git, **Heroku**, AWS
+###### Java enterprise development
+Years of Java EE development experience, in depth mastering of Spring suite (Spring MVC, Spring data, Spring integration)
+###### Enterprise entegration
+project experience with both Spring integration and mule ESB, be able to implement common integration requirement, such as JMS, smtp, ftp, with both tools
+###### API Design
+Good understanding of both HTTP and REST, experienced with RESTful API design with consideration include security, scalability, synchronicity and error handling.
+###### Web security
+Good understanding of SAML and OAuth, have project experince in setting up security authentication using DataPower(as idP) and SAML assertion.
+###### Microservice
+Good understanding of microservice, have project experience of implementing micro service with PCF, mulesoft API gateway and mule runtime.
+###### Data analysis and data visualization
+Good master of data analysis using ElasticSearch, Logstash and Kibana(ELK) and experienced in data visualization using D3
 
 ### Professional Experience
 ###### Tech leader/Sulotion architect @Chinasoft
