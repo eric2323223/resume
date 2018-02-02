@@ -1,0 +1,11 @@
+1. 相关概念
+1.1. 强化学习的分类
+1.2. DQN和PG的比较
+
+2. PG
+2.1. PG的基本原理
+2.2. Objective function
+2.3. Score function的由来及其推导
+2.4. PG的改进算法
+
+3. 总结
